@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celinehuannng
-- 👀 I’m currently interested in human-centered AI applications and am open to exploring other areas as well. 
+- 👀 I’m currently interested in exploring the intersections between humanities and technology, human-centered AI applications, and am open to exploring other areas as well. 
 - 🌱 I’m currently pursuing a Master of Information at UofT
 - 💞️ I’m looking to collaborate on product management, research and design
 - 📫 Please reach out to me at celine(dot)huang(at)mail(dot)utoronto(dot)ca ...
