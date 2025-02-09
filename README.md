@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Celine 💞️
-- 🌱 I’m currently pursuing a Master of Information at UofT
+- 🌱 I’m currently pursuing a Master of Information at UofT! I am passionate about using data science to tackle real-world social and business problems, and human-centered AI application. 
 - 📫 My email is celine(dot)huang(at)mail(dot)utoronto(dot)ca ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am vegetarian
